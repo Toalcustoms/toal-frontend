@@ -4,13 +4,13 @@
 
 ## Git Workflow 
 
-### 1. ```git pull``` to get latest Version 
-### 2. ```git checkout -b <branchname>``` to make a new feature branch, where 
-### you can push your changes
-### 3. when you're done with all your changes use ```git add <filename>``` to ### add all files you want to commit 
-### 4. use ```git commit -m "<message>"``` to commit your changes
-### 5. use ```git push``` to push your local branch to remote
-### 6. open a new pull request ongithub.com/Toalcustoms/toal-frontend
+1. ```git pull``` to get latest Version 
+2. ```git checkout -b <branchname>``` to make a new feature branch, where 
+you can push your changes
+3. when you're done with all your changes use ```git add <filename>``` to ### add all files you want to commit 
+4. use ```git commit -m "<message>"``` to commit your changes
+5. use ```git push``` to push your local branch to remote
+6. open a new pull request ongithub.com/Toalcustoms/toal-frontend
 
 ## Build Setup
 
